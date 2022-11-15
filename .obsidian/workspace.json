@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "22d132490a7eb418",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b90b069b3b736bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea7ba9622aee8d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git使用简要手册/Finlifin 常忘命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b84768be382435e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5251613418729ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a7523fe39ba1e87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97b82350d45c47d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39659b2a9b209c7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "801bdbb18d674ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9388006aa481876d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e1a29272391443",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git使用简要手册/Finlifin 常忘命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86cf28c861436096",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git使用简要手册/Finlifin 常忘命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10c3ad613864e054",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4593865a37b130f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git使用简要手册/Finlifin 常忘命令.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4a7523fe39ba1e87",
+  "lastOpenFiles": [
+    "百度翻译api手册/js示例.md",
+    "百度翻译api手册/2022-11-14.md",
+    "git使用简要手册/Finlifin 常忘命令.md",
+    "rust一些库的简要使用手册/tokio.md",
+    "rust一些库的简要使用手册/rand.md",
+    "rust一些库的简要使用手册/Serde.md",
+    "百度翻译api手册/Pasted image 20221114232234.png",
+    "百度翻译api手册/Pasted image 20221114231939.png",
+    "百度翻译api手册/Pasted image 20221114232028.png"
+  ]
+}
